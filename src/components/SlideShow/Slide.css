@@ -1,0 +1,6 @@
+.slide{
+    display: flex;
+    justify-content: space-between;
+    min-height: 370px;
+    width: 100%;
+}

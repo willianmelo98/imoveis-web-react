@@ -1,0 +1,8 @@
+.listaImoveis {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.listaImoveis .imovelCard {
+  margin: 5px;
+}
